@@ -1,0 +1,52 @@
+.qqq{
+    float: right;
+  }
+
+
+nav a{
+    
+    text-decoration: none;
+    font-size: 22px;
+    text-align: -webkit-match-parent;
+    display: inline;
+    box-sizing: border-box;
+    background-color: red;
+    margin: 0 auto 5px;
+    width: 100%;
+    padding: 0 10px;
+    
+    
+ 
+  }
+ 
+  
+  .maintask {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('C:\Users\FAIZ\OneDrive\Desktop\react\implement\src\img\jack.jpg');
+    background-size: cover;
+    background-position: center;
+    left:auto;
+  }
+  
+  .a {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .book {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+    background-color: blue;
+  }
+
+  
+  
