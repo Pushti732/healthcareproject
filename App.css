@@ -175,3 +175,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
   left: 0; /* Adjust the left position as needed */
   width: 100%;
 }
+.app-tmgs{
+  margin: auto;
+  width: 50%;
+}

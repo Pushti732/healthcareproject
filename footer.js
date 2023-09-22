@@ -14,6 +14,7 @@ function FooterComponent() {
 
 <div class="flex-child magenta">
 <p className="f-header">Our Appointment Timings</p>
+            <div className="app-tmgs">
                 <ul className="f-list">
                 <li>Mon  09:00 - 23:00</li>
                 <li>Tue  09:00 - 21:00</li>
@@ -24,7 +25,7 @@ function FooterComponent() {
                 <li>Sun  09:00 - 21:00</li>
                 </ul>
 </div>
-
+</div>
 <div class="flex-child green">
 <p className="f-header">Contact Us</p>
                 <ul className="f-list">
